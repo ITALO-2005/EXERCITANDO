@@ -1,0 +1,11 @@
+1. Utilize apenas a tag div para fazer a separação do conteúdo
+2. Altere apenas este arquivo. (não crie outros nem altere o arquivo estilo.css)
+3. Para colocar uma cor no fundo da div, basta adicionar a classe
+correspondente ao nome da cor: vermelho, laranja, amarelo, verde_c,
+verde_e, verzul, ciano azul_c azul_e roxo violeta rosa 
+4. Adicione as propriedades CSS por meio do atributo style
+5. Apenas as quatro seguintes propriedades são necessários para essa atividade:
+* display: quando necessário use display flex
+* flex-direction: quando necessário use column
+* width: quando necessário use %
+* height: quando necessário use vh

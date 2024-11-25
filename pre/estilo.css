@@ -1,0 +1,45 @@
+.vermelho{
+    background-color: #ff0000;
+}
+.laranja{
+    background-color: #ff8000;
+}
+.amarelo{
+    background-color: #ffff00;
+}
+.verde_c{
+    background-color: #80ff00;
+}
+.verde_e{
+    background-color: #00ff00;
+}
+.verzul{
+    background-color: #00ff80;
+}
+.ciano{
+    background-color: #00ffff;
+}
+.azul_c{
+    background-color: #0080ff;
+}
+.azul_e{
+    background-color: #0000ff;
+}
+.roxo{
+    background-color: #8000ff ;
+}
+.violeta{
+    background-color: #ff00ff;
+}
+.rosa{
+    background-color: #ff0080;
+}
+body {
+    text-align: center;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+}
+div {
+    vertical-align: middle;
+}
